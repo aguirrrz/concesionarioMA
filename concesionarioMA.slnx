@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="aplicacionesMA/aplicacionesMA.csproj" />
+  <Project Path="frontpageMA/frontpageMA.csproj" />
+  <Project Path="presentacionesMA/presentacionesMA.csproj" />
+  <Project Path="servicios/servicios.csproj" />
+</Solution>
